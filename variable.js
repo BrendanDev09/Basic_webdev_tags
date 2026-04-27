@@ -1,0 +1,10 @@
+prompt ("what is your name ");
+var myName ="Angela ";
+alert(myName);
+var yourName = prompt ("what is your name ");
+alert("my name is "+myName+", and your name is "+yourName+" , isn't it ?");
+var gameLevel =1;
+gameLevel = 2;
+gameLevel =3;
+alert(gameLevel);
+alert("Your level is currently: " + gameLevel);
