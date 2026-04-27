@@ -1,0 +1,31 @@
+Select tags{
+    property : value 
+}
+
+
+
+body{
+    background-color: black;
+    color:white;
+}
+.Firstdiv{
+   background-color: yellow;
+   color: black;
+}
+.wedo{
+    text-align: center;
+}
+.Seconddiv{
+    color: yellow;
+}
+.loc{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#list{
+    border-color: white;
+   border-width:thin ;
+   border-style: ;
+}
